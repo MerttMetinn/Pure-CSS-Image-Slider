@@ -1,7 +1,5 @@
-# Pure CSS Image Slider
- Pure CSS Image Slider Project
- <br></br>
-Via:[@Skillthrive](https://www.youtube.com/c/Skillthrive)
+# Pure CSS Image Slider Project
+Sayfanın çalışan haline [buradan](https://merttmetinn.github.io/Pure-CSS-Image-Slider/) ulaşabilirsin
  <br></br>
  Bu projeyi yaparken [Skillthrive](https://www.youtube.com/c/Skillthrive) youtube kanalının [bu](https://youtu.be/McPdzhLRzCg) videosundan yardım aldım. Daha önce sadece Css kulanarak slider tasarlamamıştım. Benim için güzel bir deneyim oldu.
 
